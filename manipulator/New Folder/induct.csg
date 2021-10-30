@@ -1,0 +1,3 @@
+polygon(points = [[0, 0], [46, 22], [46, 85], [0, 110]], paths = undef, convexity = 1);
+polygon(points = [[0, 0], [-25, 13], [-25, 98], [0, 110]], paths = undef, convexity = 1);
+
